@@ -84,5 +84,3 @@
 </p>
 
 ---
-
-<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
