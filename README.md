@@ -11,6 +11,16 @@
   <a href="mailto:Kameshwaranbtc2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://github.com/Technomaniac143/Technomaniac143/blob/main/New%20Wallpaper2.png?raw=true" 
+       alt="The Work Today, The Freedom Tomorrow" 
+       width="100%" />
+</p>
+
+<h1 align="center">Hi there, I'm Kameshwaran 👋</h1>
+<h3 align="center">Driven by Passion, Guided by Reflection</h3>
+
 ---
 
 ### 💫 About Me
