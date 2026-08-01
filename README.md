@@ -17,10 +17,6 @@
        alt="The Work Today, The Freedom Tomorrow" 
        width="100%" />
 </p>
-
-<h1 align="center">Hi there, I'm Kameshwaran 👋</h1>
-<h3 align="center">Driven by Passion, Guided by Reflection</h3>
-
 ---
 
 ### 💫 About Me
